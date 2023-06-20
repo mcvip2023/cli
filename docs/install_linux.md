@@ -230,7 +230,7 @@ apk add github-cli@community
 Void Linux users can install from the [official distribution repo](https://voidlinux.org/packages/?arch=x86_64&q=github-cli):
 
 ```bash
-sudo xbps-install github-cli
+
 ```
 
 [releases page]: https://github.com/cli/cli/releases/latest
